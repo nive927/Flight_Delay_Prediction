@@ -3,9 +3,9 @@ A two stage predictive machine learning engine that forecasts the on-time perfor
 
 # Installation Requirements
 ## Environment
-We recommend having a Linux or macOS development environment for convenience, although the code runs on Windows 10. <br>
-We recommend using Anaconda to manage your packages and Python 3 (version >= 3.8.0 recommended). <br>
-We also recommend running the code on <strong>Jupyter Notebook</strong>.
+I recommend having a Linux or macOS development environment for convenience, although the code runs on Windows 10. <br>
+Use Anaconda to manage your packages and Python 3 (version >= 3.8.0 recommended). <br>
+I also recommend running the code on <strong>Jupyter Notebook</strong>.
 
 ## Dependencies
 ### With Anaconda
@@ -13,6 +13,7 @@ We also recommend running the code on <strong>Jupyter Notebook</strong>.
 - scikit-learn
 - numpy
 - pandas
-### Others (remember to use conda, not pip)
+### Others
+Remember to use conda, not pip.
 - missingno
 - imblearn
