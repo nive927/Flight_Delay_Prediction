@@ -8,12 +8,12 @@ Use Anaconda to manage your packages and Python 3 (version >= 3.8.0 recommended)
 I also recommend running the code on <strong>Jupyter Notebook</strong>.
 
 ## Dependencies
-### With Anaconda
+### With Anaconda, no need to install
 - matplotlib
 - scikit-learn
 - numpy
 - pandas
 ### Others
-Remember to use conda, not pip.
+Remember to use conda, not pip for installing these
 - missingno
 - imblearn
