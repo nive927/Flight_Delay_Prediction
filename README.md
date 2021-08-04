@@ -18,7 +18,7 @@ flight and weather data. A classifier first predicts if the flight will be delay
 6. [Study of ways to handle class imbalance in the data set](./06_Handling_Imbalance.ipynb)
 7. [Random Under-sampling](./07_Random_Under_Sampling.ipynb)
 8. [Random Over-sampling](./08_Random_Over_Sampling.ipynb)
-9. [Synthetic Minority Over-sampling TEchnique](./09_SMOTE.ipynb)
+9. [Synthetic Minority Over-sampling TEchnique (SMOTE)](./09_SMOTE.ipynb)
 10. [Comparison of the different sampling techniques to handle imbalance](./10_Classification_Inference.ipynb)
 11. [Regression model to predict the arrival delay in minutes](./11_Regression.ipynb)
 12. [Final implementation of the two-stage machine learning model to predict flight delay](./12_Pipelined_Model.ipynb)
