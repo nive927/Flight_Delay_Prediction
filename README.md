@@ -24,8 +24,7 @@ flight and weather data. A classifier first predicts if the flight will be delay
 12. [Final implementation of the two-stage machine learning model to predict flight delay](./12_Pipelined_Model.ipynb)
 
 ## Result
-The flight and weather data were combined into a single data set and pre-processed to train a two-stage machine learning model that predicts flight arrival delay. Due to class imbalance, there was an inherent bias towards the majority class, ’Not Delayed’ flights (class 0). The data was sampled using SMOTE before classification to overcome the bias. Out of five different algorithms, the Random Forest classifier gave the best F1 score (0.78) and Recall (0.74) for the delayed flights. Subsequently, the Random Forest regressor was pipe-lined, giving MAE
-7.178 minutes and RMSE 11.283 minutes with an R2 score of 0.977. In conclu- sion, the flight delay prediction was efficient and the Machine Learning model exhibited good performance.
+The flight and weather data were combined into a single data set and pre-processed to train a two-stage machine learning model that predicts flight arrival delay. Due to class imbalance, there was an inherent bias towards the majority class, ’Not Delayed’ flights (class 0). The data was sampled using SMOTE before classification to overcome the bias. Out of five different algorithms, the Random Forest classifier gave the best F1 score (0.78) and Recall (0.74) for the delayed flights. Subsequently, the Random Forest regressor was pipe-lined, giving MAE 7.178 minutes and RMSE 11.283 minutes with an R2 score of 0.977. In conclusion, the flight delay prediction was efficient and the Machine Learning model exhibited good performance.
 
 # Installation Requirements
 ## Environment
