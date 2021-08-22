@@ -1,7 +1,7 @@
 # Flight_Delay_Prediction
 A two stage predictive machine learning engine that forecasts the on-time performance of flights for 15 different airports in the USA based on data collected between 2016 and 2017.
 
-![](Report/Flight_Delay_Prediction_Pipe-lining_Flowchart.png)
+![](Report/Flight_Delay_Prediction_Pipelining_Flowchart.png)
 - Check out the two-stage machine learning model [here!](./12_Pipelined_Model.ipynb)
 - Check out the details of the project in this [Report!](./Two_Stage_Flight_Delay_Prediction_Report_Nivedhitha.pdf)
 
