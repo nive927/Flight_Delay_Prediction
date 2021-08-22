@@ -3,7 +3,7 @@ A two stage predictive machine learning engine that forecasts the on-time perfor
 
 ![](Report/Flight_Delay_Prediction_Pipelining_Flowchart.png)
 - Check out the two-stage machine learning model [here!](./12_Pipelined_Model.ipynb)
-- Check out the details of the project in this [Report!](./Two_Stage_Flight_Delay_Prediction_Report_Nivedhitha.pdf)
+- Check out the details of the project in this [Report!](./Report/Two_Stage_Flight_Delay_Prediction_Report_Nivedhitha.pdf)
 
 ## Abstract
 Flights are said to be delayed when they arrive later than the scheduled arrival time. This delay is predominantly influenced by environmental conditions. Flight delay is vexatious for passengers and also incurs an agonizingly high financial loss to airlines and countries. A structured prediction system is an indispensable tool that can help aviation authorities effectively alleviate flight delays. This project aims to build a two-stage machine learning engine to effectively predict the arrival delay of a flight in minutes after departure based on real-time
