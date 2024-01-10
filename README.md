@@ -44,3 +44,6 @@ Remember to use conda, not pip for installing these
 - imblearn
 ### Latex for documentation - Ubuntu
 - texlive-full
+
+## Data
+The data files for this project are maintained privately and not available for public use.
